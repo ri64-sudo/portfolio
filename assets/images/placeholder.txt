@@ -1,0 +1,65 @@
+# Portfolio Images
+
+This directory should contain the following images for the portfolio website:
+
+## Required Images:
+
+### Profile Images:
+- profile.jpg (300x300px) - Profile picture for hero section
+
+### About Section:
+- about.jpg (500x400px) - Image for about section
+
+### Project Images (Carousel/Slider):
+
+#### Project 1 - E-commerce Website:
+- project1-1.jpg (600x300px) - Homepage screenshot
+- project1-2.jpg (600x300px) - Product page screenshot
+- project1-3.jpg (600x300px) - Checkout page screenshot
+
+#### Project 2 - Task Management App:
+- project2-1.jpg (600x300px) - Main interface screenshot
+- project2-2.jpg (600x300px) - Project board screenshot
+- project2-3.jpg (600x300px) - Team view screenshot
+
+#### Project 3 - Weather Dashboard:
+- project3-1.jpg (600x300px) - Current conditions screenshot
+- project3-2.jpg (600x300px) - Forecast view screenshot
+- project3-3.jpg (600x300px) - Map view screenshot
+
+## Image Guidelines:
+- Use high-quality images with good resolution
+- Ensure images are optimized for web (compressed but clear)
+- Use consistent aspect ratios for project carousel images
+- Include descriptive alt text for accessibility
+- Consider using placeholder images from services like Unsplash or Pexels
+
+## Placeholder Image Services:
+- https://picsum.photos/ (Random placeholder images)
+- https://via.placeholder.com/ (Custom placeholder images)
+- https://unsplash.com/ (Free stock photos)
+
+## Example Usage with Placeholder Services:
+
+For development, you can use placeholder services by updating the src attributes in index.html:
+
+### Profile:
+https://picsum.photos/300/300?random=1
+
+### About:
+https://picsum.photos/500/400?random=2
+
+### Project 1:
+- https://picsum.photos/600/300?random=3
+- https://picsum.photos/600/300?random=4
+- https://picsum.photos/600/300?random=5
+
+### Project 2:
+- https://picsum.photos/600/300?random=6
+- https://picsum.photos/600/300?random=7
+- https://picsum.photos/600/300?random=8
+
+### Project 3:
+- https://picsum.photos/600/300?random=9
+- https://picsum.photos/600/300?random=10
+- https://picsum.photos/600/300?random=11
